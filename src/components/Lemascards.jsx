@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Lemascards = ({word, image, desc}) => {
+const Lemascards = ({word, image}) => {
   return (
     <>
       <div className='lemas_card'>
