@@ -22,7 +22,7 @@ const Hero = () => {
       <div className='bridge'>
         <div className='hero__card'>
             <nav className='hero__navbar'>
-                <h4><span style={{color:'#775ada'}}>&clubs;</span>DictIt App</h4>  <a href='#'>by Adeoti</a>
+                <h4><span style={{color:'#775ada'}}>&clubs;</span>DictIt App</h4>  <a href='https://adeoti.netlify.app/'>by Adeoti</a>
             </nav>
             <div className='hero__intro'>
                 <h2>DictIt Powerful Dictionary</h2>
